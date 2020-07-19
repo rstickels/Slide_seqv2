@@ -1,6 +1,9 @@
 # Slide_seqv2
+
 notebooks for loading Slide-seqV2 data and some associated analyses
+
 publication: https://www.biorxiv.org/content/10.1101/2020.03.12.989806v1
+
 data: https://singlecell.broadinstitute.org/single_cell/study/SCP815/sensitive-spatial-genome-wide-expression-profiling-at-cellular-resolution#study
 
 
