@@ -5,6 +5,7 @@ data: https://singlecell.broadinstitute.org/single_cell/study/SCP815/sensitive-s
 
 
 List of notebooks:
+
 SlideseqV2_basic_loading_plotting_submission: notebook for loading and plotting gene count data and total counts across array (for most users you will want to start here)
 
 SlideseqV2_HDST_comparison_submission: loading and plotting Slide-seqV2 data versus HDST
